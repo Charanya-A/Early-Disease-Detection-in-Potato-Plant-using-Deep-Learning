@@ -29,7 +29,7 @@ Ensure you have Python 3.8+ installed on your system.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/potato-disease-detection.git
+   git clone https://github.com/Charanya-A/Early-Disease-Detection-in-Potato-Plant-using-Deep-Learning-for-Precise-Agriculture.git
    cd potato-disease-detection
    ```
 2. Install dependencies:
